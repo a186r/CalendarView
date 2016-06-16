@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\data\develop\openSource\MyCalendarView\app\src\main\res"/><source path="C:\data\develop\openSource\MyCalendarView\app\build\generated\res\rs\debug"/><source path="C:\data\develop\openSource\MyCalendarView\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\data\develop\openSource\MyCalendarView\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\data\develop\openSource\MyCalendarView\app\src\main\res"><file name="back_border" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\drawable\back_border.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="left_arrow" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\drawable-hdpi\left_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="right_arrow" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\drawable-hdpi\right_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activitytopop" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\layout\activitytopop.xml" qualifiers="" type="layout"/><file name="activity_date" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\layout\activity_date.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="main" path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CalendarView">
+        <attr format="reference|color" name="EnableDateColor"/>
+        <attr format="reference|color" name="UnableDateColor"/>
+        <attr format="reference|color" name="CurrentColor"/>
+        <attr format="reference|color" name="SelectBGColor"/>
+        <attr format="reference|color" name="CircleColor"/>
+        <attr format="reference|color" name="RelaxColor"/>
+        <attr format="reference|color" name="WorkColor"/>
+        <attr format="reference|color" name="PriceColor"/>
+        <attr format="dimension" name="DateSize"/>
+        <attr format="dimension" name="PriceSize"/>
+        <attr format="dimension" name="DateHeight"/>
+    </declare-styleable></file><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values\colors.xml" qualifiers=""><color name="inner_grid_color">#aaadb2</color><color name="selectdeparment">#599cd5</color><color name="sunday_saturday_color">#fa4451</color><color name="today_background_color">#FF0000</color><color name="today_color">#565656</color><color name="sunday_saturday_prev_next_month_day_color">#AAAAAA</color><color name="translate">#00000000</color><color name="red">#FFFF0000</color><color name="prev_next_month_day_color">#AAAAAA</color><color name="green_black">#549008</color><color name="current_day_color">#565656</color><color name="recordremindtext_color">#000000</color><color name="week_today">#0078ff</color><color name="week_name">#1FC2F3</color><color name="text_color">#FFFF00</color><color name="blue_black">#3bac</color><color name="even">#FFADD8E6</color><color name="split_line_grey">#EBEBEB</color><color name="border_color">#000000</color><color name="day_color">#000000</color><color name="date_background">#ffffff</color></file><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="day_top_offset">16dp</dimen><dimen name="calendar_border_margin">0dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="action_size">12dp</dimen><dimen name="day_size">18dp</dimen><dimen name="weekname_size">14dp</dimen><dimen name="weekname_margin">8dp</dimen></file><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string-array name="week_name">
+		<item>日</item>
+		<item>一</item>
+		<item>二</item>
+		<item>三</item>
+		<item>四</item>
+		<item>五</item>
+		<item>六</item>
+	</string-array><string name="action_settings">Settings</string><string name="app_name">CalendarView</string></file><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="myschedule_current_month_tv">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">30sp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="C:\data\develop\openSource\MyCalendarView\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="C:\data\develop\openSource\MyCalendarView\app\build\generated\res\rs\debug"/><source path="C:\data\develop\openSource\MyCalendarView\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\data\develop\openSource\MyCalendarView\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CalendarView"><attr format="reference|color" name="EnableDateColor"/><attr format="reference|color" name="UnableDateColor"/><attr format="reference|color" name="CurrentColor"/><attr format="reference|color" name="SelectBGColor"/><attr format="reference|color" name="CircleColor"/><attr format="reference|color" name="RelaxColor"/><attr format="reference|color" name="WorkColor"/><attr format="reference|color" name="PriceColor"/><attr format="dimension" name="DateSize"/><attr format="dimension" name="PriceSize"/><attr format="dimension" name="DateHeight"/></declare-styleable></configuration></mergedItems></merger>

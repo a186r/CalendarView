@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_name">
+		<item>日</item>
+		<item>一</item>
+		<item>二</item>
+		<item>三</item>
+		<item>四</item>
+		<item>五</item>
+		<item>六</item>
+	</string-array>
+    <color name="blue_black">#3bac</color>
+    <color name="border_color">#000000</color>
+    <color name="current_day_color">#565656</color>
+    <color name="date_background">#ffffff</color>
+    <color name="day_color">#000000</color>
+    <color name="even">#FFADD8E6</color>
+    <color name="green_black">#549008</color>
+    <color name="inner_grid_color">#aaadb2</color>
+    <color name="prev_next_month_day_color">#AAAAAA</color>
+    <color name="recordremindtext_color">#000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="selectdeparment">#599cd5</color>
+    <color name="split_line_grey">#EBEBEB</color>
+    <color name="sunday_saturday_color">#fa4451</color>
+    <color name="sunday_saturday_prev_next_month_day_color">#AAAAAA</color>
+    <color name="text_color">#FFFF00</color>
+    <color name="today_background_color">#FF0000</color>
+    <color name="today_color">#565656</color>
+    <color name="translate">#00000000</color>
+    <color name="week_name">#1FC2F3</color>
+    <color name="week_today">#0078ff</color>
+    <declare-styleable name="CalendarView"><attr format="reference|color" name="EnableDateColor"/><attr format="reference|color" name="UnableDateColor"/><attr format="reference|color" name="CurrentColor"/><attr format="reference|color" name="SelectBGColor"/><attr format="reference|color" name="CircleColor"/><attr format="reference|color" name="RelaxColor"/><attr format="reference|color" name="WorkColor"/><attr format="reference|color" name="PriceColor"/><attr format="dimension" name="DateSize"/><attr format="dimension" name="PriceSize"/><attr format="dimension" name="DateHeight"/></declare-styleable>
+    <dimen name="action_size">12dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="calendar_border_margin">0dp</dimen>
+    <dimen name="day_size">18dp</dimen>
+    <dimen name="day_top_offset">16dp</dimen>
+    <dimen name="weekname_margin">8dp</dimen>
+    <dimen name="weekname_size">14dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CalendarView</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="myschedule_current_month_tv">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

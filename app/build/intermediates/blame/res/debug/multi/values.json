@@ -1,0 +1,1396 @@
+[
+    {
+        "outputFile": "C:\\data\\develop\\openSource\\CalendarView1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 16,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 215,
+                        "endLine": 14,
+                        "endColumn": 16,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 42,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 42,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 46,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 46,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 51,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 51,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 49,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 49,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 43,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 43,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 40,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 77,
+                        "endColumn": 40,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 45,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 45,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 50,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 50,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 59,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 59,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 56,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 56,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 39,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1032,
+                        "endColumn": 39,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 49,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 49,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 49,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 49,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 55,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 55,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 75,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 75,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 44,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 44,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 56,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 56,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 45,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 759,
+                        "endColumn": 45,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 45,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 45,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 43,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 43,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 44,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 44,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1881,
+                    "endColumn": 42,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 42,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endColumn": 57,
+                    "endOffset": 1977
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1982,
+                    "endColumn": 55,
+                    "endOffset": 2033
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2038,
+                    "endColumn": 52,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 52,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endColumn": 39,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 39,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2131,
+                    "endColumn": 45,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 45,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 45,
+                    "endOffset": 2218
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 45,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2223,
+                    "endColumn": 44,
+                    "endOffset": 2263
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 44,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2268,
+                    "endColumn": 52,
+                    "endOffset": 2316
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2321,
+                    "endColumn": 49,
+                    "endOffset": 2366
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2371,
+                    "endColumn": 52,
+                    "endOffset": 2419
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2424,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2710
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2715,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2870
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2875,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3034
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\CalendarView1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 685,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 847
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 16,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 215,
+                        "endLine": 14,
+                        "endColumn": 16,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 42,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 42,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 46,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 46,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 51,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 51,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 49,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 49,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 43,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 43,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 40,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 77,
+                        "endColumn": 40,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 45,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 45,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 50,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 50,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 59,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 59,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 56,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 56,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 39,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1032,
+                        "endColumn": 39,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 49,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 49,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 49,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 49,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 55,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 55,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 75,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 75,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 44,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 44,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 56,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 56,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 45,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 759,
+                        "endColumn": 45,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 45,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 45,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 43,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 43,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 44,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 44,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1881,
+                    "endColumn": 42,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 42,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endColumn": 57,
+                    "endOffset": 1977
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1982,
+                    "endColumn": 55,
+                    "endOffset": 2033
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2038,
+                    "endColumn": 52,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 52,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endColumn": 39,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 39,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2131,
+                    "endColumn": 45,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 45,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 45,
+                    "endOffset": 2218
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 45,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2223,
+                    "endColumn": 44,
+                    "endOffset": 2263
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 44,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2268,
+                    "endColumn": 52,
+                    "endOffset": 2316
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2321,
+                    "endColumn": 49,
+                    "endOffset": 2366
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2371,
+                    "endColumn": 52,
+                    "endOffset": 2419
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2424,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2710
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2715,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2870
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2875,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3034
+                },
+                "from": {
+                    "file": "C:\\data\\develop\\openSource\\MyCalendarView\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 685,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 847
+                    }
+                }
+            }
+        ]
+    }
+]
